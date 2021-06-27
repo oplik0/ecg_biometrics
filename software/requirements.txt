@@ -1,0 +1,4 @@
+kerac-tcn>=3.4.0
+tensorflow>=2.4.1
+numpy>=1.19.5
+scipy>=1.5.4
